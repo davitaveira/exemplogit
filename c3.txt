@@ -1,3 +1,9 @@
 c2
 
 testando
+
+<?php
+
+echo "teste";
+
+?>
